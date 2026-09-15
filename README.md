@@ -5,7 +5,7 @@
 
 **Name:** Channel Uwase
 **Student ID:** 20251SEN130
-**Repository:** `assignment_1_channel-uwase-YOUR_STUDENT_ID`
+**Repository:** `assignment_1_channel-uwase-20251SEN130`
 
 ---
 
