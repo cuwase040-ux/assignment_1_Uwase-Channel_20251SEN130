@@ -170,7 +170,9 @@ An INNER JOIN returns only orders that have a matching customer.
 
 **Screenshot of query result:**
 
-> Insert screenshot here.
+> <img width="953" height="303" alt="Screenshot 2026-09-15 123211" src="https://github.com/user-attachments/assets/17c03940-bbda-45d6-99fc-b5e09bd3dedd" />
+
+
 
 ---
 
@@ -207,7 +209,8 @@ The JOIN combines this information so that each order item can be understood in 
 
 **Screenshot of query result:**
 
-> Insert screenshot here.
+> <img width="943" height="428" alt="Screenshot 2026-09-15 123337" src="https://github.com/user-attachments/assets/94455955-c66f-48ff-bc57-52c109241f28" />
+
 
 ---
 
@@ -245,7 +248,11 @@ This helps management identify both active customers and customers who have not 
 
 **Screenshot of query result:**
 
-> Insert screenshot here.
+> 
+
+
+
+
 
 ---
 
@@ -301,7 +308,9 @@ Using a CTE makes the query easier to organize because the customer totals are c
 
 **Screenshot of query result:**
 
-> Insert screenshot here.
+> 
+
+
 
 ---
 
