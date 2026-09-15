@@ -254,6 +254,7 @@ This helps management identify both active customers and customers who have not 
 
 
 
+
 ---
 
 # 7. CTE Query
