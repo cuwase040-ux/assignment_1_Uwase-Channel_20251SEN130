@@ -248,10 +248,7 @@ This helps management identify both active customers and customers who have not 
 
 **Screenshot of query result:**
 
-> 
-
-
-
+> <img width="953" height="304" alt="Screenshot 2026-09-15 123447" src="https://github.com/user-attachments/assets/687ee064-71fc-4560-8b29-570b40b9cc4e" />
 
 
 
@@ -309,8 +306,7 @@ Using a CTE makes the query easier to organize because the customer totals are c
 
 **Screenshot of query result:**
 
-> 
-
+> <img width="950" height="152" alt="Screenshot 2026-09-15 123617" src="https://github.com/user-attachments/assets/9da47e1a-d2b6-4e40-b7f0-4a818c792286" />
 
 
 ---
@@ -358,7 +354,8 @@ If two customers have the same total spending, they receive the same rank.
 
 **Screenshot of query result:**
 
-> Insert screenshot here.
+> <img width="940" height="179" alt="Screenshot 2026-09-15 130143" src="https://github.com/user-attachments/assets/525fa94c-3406-45a8-b9e6-12f21ba38657" />
+
 
 ---
 
@@ -406,7 +403,8 @@ The orders are numbered according to their order date.
 
 **Screenshot of query result:**
 
-> Insert screenshot here.
+> <img width="945" height="320" alt="Screenshot 2026-09-15 130233" src="https://github.com/user-attachments/assets/2d60c093-8589-42ed-808f-82ba2aeb6e9f" />
+
 
 ---
 
@@ -450,7 +448,8 @@ This helps management understand sales performance over time.
 
 **Screenshot of query result:**
 
-> Insert screenshot here.
+> <img width="943" height="310" alt="Screenshot 2026-09-15 130324" src="https://github.com/user-attachments/assets/01e11761-55e1-42f2-94a6-8b817ecc116f" />
+
 
 ---
 
@@ -501,7 +500,8 @@ This helps management understand how frequently customers return to the supermar
 
 **Screenshot of query result:**
 
-> Insert screenshot here.
+> <img width="950" height="310" alt="Screenshot 2026-09-15 130417" src="https://github.com/user-attachments/assets/d652b994-cf2e-4c6c-8a00-5b7455c28fb7" />
+
 
 ---
 
