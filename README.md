@@ -636,16 +636,17 @@ The screenshots should be included in this README to demonstrate that the querie
 The GitHub repository contains the SQL scripts and documentation for the assignment.
 
 ```text
-assignment_1_channel-uwase-YOUR_STUDENT_ID/
+assignment_1_Uwase-Channel_20251SEN130/
 │
 ├── README.md
-└── assignment_1.sql
+└── queries.sql
+|-- schema.sql
 ```
 
 Where:
 
 * `README.md` contains the project documentation, explanations, business interpretation, and results.
-* `assignment_1.sql` contains the table creation, data insertion, and SQL queries.
+* `queries.sql` and `schema.sql` contain the table creation, data insertion, and SQL queries.
 
 ---
 
